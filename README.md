@@ -1,11 +1,11 @@
-# Data Analysis with Python
+# House Sales Prediction for King County, USA
+## Data Analysis Project
 
-## House Sales Prediction 
-Data: House Sales in King County, USA
+**Project Scenario**: You are tasked with determining the market price of a house given a set of features. You will analyze and predict housing prices using attributes or features such as square footage, number of bedrooms, number of floors, and so on.
 
-Requirement: Determining the market price of a house given a set of features. Analyse and predict housing prices using attributes or features such as square footage, number of bedrooms, number of floors
+**Dataset:** The dataset contains house sale prices for King County, which includes Seattle. It includes homes sold between May 2014 and May 2015. It was taken from here. It was also slightly modified for the purposes of this course. 
 
-Click to view Jupyter Nbviewer ipynb: 
+Click to view completed Jupyter Nbviewer ipynb: 
 1. [Importing Datasets ipynb](https://nbviewer.jupyter.org/github/topgyaltsering/House-sales-prediction/blob/main/intro.ipynb)
 2. [Data Wrangling ipynb](https://nbviewer.jupyter.org/github/topgyaltsering/House-sales-prediction/blob/main/Data%20Wrangling.ipynb)
 3. [Exploratory Data Analysis (EDA) ipynb](https://nbviewer.jupyter.org/github/topgyaltsering/House-sales-prediction/blob/main/EDA.ipynb)
