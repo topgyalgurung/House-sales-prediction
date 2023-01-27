@@ -12,11 +12,11 @@ Click to view Jupyter Nbviewer ipynb:
 4. [Model Development ipynb](https://nbviewer.jupyter.org/github/topgyaltsering/House-sales-prediction/blob/main/model%20dev.ipynb)
 5. [Model Evaluation and Refinement ipynb](https://nbviewer.jupyter.org/github/topgyaltsering/House-sales-prediction/blob/main/model%20evaluation.ipynb)
 
-
+**Complete Jupyter Lab**:
 [Jupyter nbviewer Prediction House_sales ipynb](https://nbviewer.jupyter.org/github/topgyaltsering/House-sales-prediction/blob/main/House_sales.ipynb)
 
 
-## Resources:
-- [exploratory data analysis](https://nbviewer.jupyter.org/github/Tanu-N-Prabhu/Python/blob/master/Exploratory_data_Analysis.ipynb)
-- [data integration / cleansing at a smaller scale](https://towardsdatascience.com/data-cleaning-with-python-using-pandas-library-c6f4a68ea8eb)
+## Resources referred:
+- [Exploratory Data Analysis](https://nbviewer.jupyter.org/github/Tanu-N-Prabhu/Python/blob/master/Exploratory_data_Analysis.ipynb)
+- [Data Integration / Cleansing at a smaller scale](https://towardsdatascience.com/data-cleaning-with-python-using-pandas-library-c6f4a68ea8eb)
 
