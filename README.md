@@ -1,11 +1,11 @@
-# House Sales Prediction for King County, USA
-## Data Analysis Project
+**Title**: House Sales Prediction Analysis 
+
 
 **Project Scenario**: You are tasked with determining the market price of a house given a set of features. You will analyze and predict housing prices using attributes or features such as square footage, number of bedrooms, number of floors, and so on.
 
 **Dataset:** The dataset contains house sale prices for King County, which includes Seattle. It includes homes sold between May 2014 and May 2015. It was taken from here. It was also slightly modified for the purposes of this course. 
 
-**Job:** To answer ten questions:
+**Scope of Functionality or Questions to Answer:** 
 1. Display the data types of each column using the function dtypes
 2. Drop the columns "id" and "Unnamed: 0" from axis 1 using the method drop(), then use the method describe() to obtain a statistical summary of the data.
 3. Use the method value_counts to count the number of houses with unique floor values, use the method .to_frame() to convert it to a dataframe.
