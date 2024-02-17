@@ -1,6 +1,5 @@
-**Title**: House Sales Prediction: Data Analytics for House Pricing Data Set 
-
-**Project Overview**: This is a Lab for Final Project for IBM Data Analysis with Python Course. 
+**Title**: House Sales Prediction
+ 
 **Project Scenario**: You are tasked with determining the market price of a house given a set of features. You will analyze and predict housing prices using attributes or features such as square footage, number of bedrooms, number of floors, and so on.
 
 **Dataset:** The dataset contains house sale prices for King County, which includes Seattle. It includes homes sold between May 2014 and May 2015. It was taken from here. It was also slightly modified for the purposes of this course. 
